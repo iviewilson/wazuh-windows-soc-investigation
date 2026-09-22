@@ -170,19 +170,19 @@ Screenshots from the Wazuh investigation will be included below to demonstrate t
 
 ### Authentication Failure Investigation
 
-![Authentication Failure Investigation](images/01-authentication-failure-investigation.jpg)
+![Authentication Failure Investigation](01-authentication-failure-investigation.png)
 
 ### Windows Event 4625 Analysis
 
-![Windows Event 4625 Analysis](images/02-event-4625-analysis.jpg)
+![Windows Event 4625 Analysis](02-event-4625-analysis.png)
 
 ### Process Creation Analysis
 
-![Process Creation Analysis](images/03-process-creation-analysis.jpg)
+![Process Creation Analysis](03-process-creation-analysis.png)
 
 ### Level 7 Alert Investigation
 
-![Level 7 Alert Investigation](images/04-level-7-alert-investigation.jpg)
+![Level 7 Alert Investigation](04-level-7-alert-investigation.png)
 
 ---
 
@@ -199,3 +199,4 @@ Effective investigation requires examining the underlying event data, process co
 **Ivie Wilson**
 
 Cybersecurity | SOC Analysis | Cloud Security
+## Investigation Evidence
